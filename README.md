@@ -1,4 +1,4 @@
-# HS_aerender
+# HS_aeRender
 
 After Effects backgrond rendering (aerender command) tool which allow artists to continue working on After Effects while any render is running on.
 
