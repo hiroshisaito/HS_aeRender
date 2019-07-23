@@ -6,8 +6,10 @@ After Effects backgrond rendering (aerender command) tool which allow artists to
 ## System Requirement
 After Effects 14.0 or later but recommend 15.1 (or later) since Adobe's new support policy.  
   
+  
 ## Install
 Copy "HS_aerender.jsx" and "(include)" in After Effects Script Folder.
+  
   
 #### Mac
 $HOME/Library/Preferences/Adobe/After Effects/<version>  
@@ -23,6 +25,7 @@ $HOME¥AppData¥Roaming¥Adobe¥After Effects¥<version>
   or  
 C:\Program Files\Adobe\Adobe After Effects CC 2019\Support Files\Scripts (with administrator privileges)  
   
+  
 ## Usage
 After Effects -> File -> Scripts -> HS_aerender.jsx
 
@@ -33,6 +36,7 @@ This script makes a folder which holds a pair of a dupicated AEP file and its re
 For example, if AEP file name was "myproject.aep", the folder is named "myproject_aerender".  
 
 Note that all files will remain in this folder which will not be removed automatically.  
-
+  
+  
 ## Licence
 MIT License
