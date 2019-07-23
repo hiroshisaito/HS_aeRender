@@ -11,12 +11,14 @@ Copy "HS_aerender.jsx" and "(include)" in After Effects Script Folder.
 #### Mac
 $HOME/Library/Preferences/Adobe/After Effects/<version>  
 (Drag and drop the jsx file in After Effects project panel)  
+  
   or  
 /Applications/<Adobe After Effects CC 2019>/Scripts (with administrator privileges)  
   
 #### Windows
 $HOME¥AppData¥Roaming¥Adobe¥After Effects¥<version>  
 (Drag and drop the jsx file in After Effects project panel)  
+  
   or  
 C:\Program Files\Adobe\Adobe After Effects CC 2019\Support Files\Scripts (with administrator privileges)  
   
