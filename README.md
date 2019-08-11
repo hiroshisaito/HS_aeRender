@@ -2,6 +2,7 @@
   
 After Effects backgrond rendering (aerender command) tool which allow artists to continue working on After Effects while any render is running on.
 
+[NOTICE] I had uploaded "include" folder but that is not required no longer. If you already installed the 'include' folder, you can remove that from your disk.
 
 ## System Requirement
 After Effects 14.0 or later but recommend 15.1 (or later) since Adobe's new support policy.  
